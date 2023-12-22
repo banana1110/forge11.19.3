@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "kk:block/stripped_niga_wood_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "kk:block/stripped_niga_wood"
+    },
+    "axis=z": {
+      "model": "kk:block/stripped_niga_wood_horizontal",
+      "x": 90
+    }
+  }
+}

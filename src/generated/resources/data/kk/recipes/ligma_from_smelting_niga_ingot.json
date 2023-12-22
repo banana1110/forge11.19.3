@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 150,
+  "experience": 0.8,
+  "group": "ligma",
+  "ingredient": {
+    "item": "kk:niga_ingot"
+  },
+  "result": "kk:ligma"
+}

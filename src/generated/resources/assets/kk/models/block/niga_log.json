@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "kk:block/niga_log_top",
+    "side": "kk:block/niga_log"
+  }
+}

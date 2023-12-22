@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": {
+      "item": "kk:niga_stick"
+    },
+    "S": {
+      "item": "kk:niga_ingot"
+    }
+  },
+  "pattern": [
+    " S",
+    " R",
+    " R"
+  ],
+  "result": {
+    "item": "kk:niga_shovel1"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": {
+      "item": "kk:niga_stick"
+    },
+    "S": {
+      "item": "kk:niga_planks"
+    }
+  },
+  "pattern": [
+    " SS",
+    " SR",
+    "  R"
+  ],
+  "result": {
+    "item": "kk:niga_wooden_axe"
+  },
+  "show_notification": true
+}

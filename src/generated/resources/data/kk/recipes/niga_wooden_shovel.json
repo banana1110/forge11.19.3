@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": {
+      "item": "kk:niga_stick"
+    },
+    "S": {
+      "item": "kk:niga_planks"
+    }
+  },
+  "pattern": [
+    " S",
+    " R",
+    " R"
+  ],
+  "result": {
+    "item": "kk:niga_wooden_shovel"
+  },
+  "show_notification": true
+}

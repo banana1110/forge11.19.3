@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "item": "kk:niga_ingot"
+    }
+  },
+  "pattern": [
+    "SSS",
+    " E ",
+    " E "
+  ],
+  "result": {
+    "item": "kk:niga_pickaxe"
+  },
+  "show_notification": true
+}

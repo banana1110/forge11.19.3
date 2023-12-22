@@ -1,0 +1,8 @@
+{"type":"forge:add_features",
+  "biomes":"#is_overworld",
+  "features": "kk:niga_ore_placed",
+  "step": "underground_ores"
+
+
+
+}
